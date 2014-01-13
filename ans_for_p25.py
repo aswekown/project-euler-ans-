@@ -6,4 +6,4 @@ while True:
     if len(str(a)) >= 1000:
         print index
         break
-    index += 1
+    index += 1 
